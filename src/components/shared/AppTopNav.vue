@@ -26,9 +26,9 @@
                     <router-link :to="{name: 'column'}" tag="li" activeClass="active" exact>
                         <a>Column</a>
                     </router-link>
-                    <router-link :to="{name: 'misc'}" tag="li" activeClass="active" exact>
-                        <a>Misc</a>
-                    </router-link>
+                    <!--<router-link :to="{name: 'misc'}" tag="li" activeClass="active" exact>-->
+                        <!--<a>Misc</a>-->
+                    <!--</router-link>-->
                 </ul>
             </div><!--/.nav-collapse -->
         </div>

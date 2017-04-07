@@ -10,14 +10,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <column-serially-scale></column-serially-scale>
-                        </div>
+                        <column-serially-scale></column-serially-scale>
                     </div>
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <column-serially-scale-from-middle></column-serially-scale-from-middle>
-                        </div>
+                        <column-serially-scale-from-middle></column-serially-scale-from-middle>
                     </div>
                 </div>
             </div>

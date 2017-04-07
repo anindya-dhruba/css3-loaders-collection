@@ -3,6 +3,7 @@
 body {
   padding-top: 50px;
   font-family: Raleway, sans-serif;
+  overflow-y: scroll;
 }
 
 .page-head {
@@ -30,4 +31,9 @@ body {
   font-size: 1.5em;
   font-weight: 100;
   color: #ddd;
+}
+
+pre {
+  max-height: 70vh;
+  overflow-y: scroll;
 }

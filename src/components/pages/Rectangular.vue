@@ -10,19 +10,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <rectangular-two-sided-rotation></rectangular-two-sided-rotation>
-                        </div>
+                        <rectangular-two-sided-rotation></rectangular-two-sided-rotation>
                     </div>
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <two-rectangulars-translation></two-rectangulars-translation>
-                        </div>
+                        <two-rectangulars-translation></two-rectangulars-translation>
                     </div>
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <rectangular-four-sided-rotation></rectangular-four-sided-rotation>
-                        </div>
+                        <rectangular-four-sided-rotation></rectangular-four-sided-rotation>
                     </div>
                 </div>
             </div>

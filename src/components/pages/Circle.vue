@@ -10,39 +10,25 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <circle-rotate></circle-rotate>
-                        </div>
+                        <circle-rotate></circle-rotate>
                     </div>
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <gradient-circle-rotate></gradient-circle-rotate>
-                        </div>
+                        <gradient-circle-rotate></gradient-circle-rotate>
                     </div>
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <circle-lazy-rotate></circle-lazy-rotate>
-                        </div>
+                        <circle-lazy-rotate></circle-lazy-rotate>
                     </div>
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <circle-scale-fading></circle-scale-fading>
-                        </div>
+                        <circle-scale-fading></circle-scale-fading>
                     </div>
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <two-circles-scale></two-circles-scale>
-                        </div>
+                        <two-circles-scale></two-circles-scale>
                     </div>
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <circle-serially-scale-fade></circle-serially-scale-fade>
-                        </div>
+                        <circle-serially-scale-fade></circle-serially-scale-fade>
                     </div>
                     <div class="col-md-4">
-                        <div class="thumbnail">
-                            <two-circles-rotate-scale></two-circles-rotate-scale>
-                        </div>
+                        <two-circles-rotate-scale></two-circles-rotate-scale>
                     </div>
                 </div>
             </div>
@@ -69,7 +55,6 @@
 			TwoCirclesScale,
 			CircleSeriallyScaleFade,
 			TwoCirclesRotateScale,
-
 		}
 	}
 </script>
