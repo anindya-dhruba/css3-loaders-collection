@@ -1,7 +1,7 @@
 {
   "name": "css3-loaders-collection",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "CSS3 loaders collection",
   "author": "Anindya Dhruba",
   "private": true,
   "scripts": {

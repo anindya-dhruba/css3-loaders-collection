@@ -1,0 +1,10 @@
+{
+  "name": "css3-loaders-collection",
+  "version": "1.0.0",
+  "description": "CSS3 loaders collection",
+  "author": "Anindya Dhruba",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
