@@ -3,7 +3,7 @@
         <div class="page-head">
             <div class="container">
                 <h1>Column</h1>
-                <p>An overview of Bootstrap, how to download and use, basic templates and examples, and more.</p>
+                <p>because, you must be tired of writing &lt;div class="row"&gt;&lt;/div&gt; </p>
             </div>
         </div>
         <div class="page-body">

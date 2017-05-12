@@ -1,5 +1,5 @@
 <template>
-    <button type="button" class="btn btn-primary btn-block" @click="showModal">
+    <button type="button" class="btn btn-outline btn-block" @click="showModal">
         View Source
     </button>
 </template>

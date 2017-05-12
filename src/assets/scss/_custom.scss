@@ -1,0 +1,87 @@
+body {
+  padding-top: 50px;
+  font-family: 'Libre Franklin', sans-serif;
+  overflow-y: scroll;
+}
+
+.page-head {
+  position: relative;
+  padding: 30px 0;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+  padding-top: 60px;
+  padding-bottom: 60px;
+  //background: #2c3e50; /* Old browsers */
+  //background: -moz-linear-gradient(-45deg,  rgba(44,62,80,1) 0%, rgba(44,62,80,1) 49%, rgba(62,79,96,1) 49%, rgba(101,115,130,1) 100%); /* FF3.6-15 */
+  //background: -webkit-linear-gradient(-45deg,  rgba(44,62,80,1) 0%,rgba(44,62,80,1) 49%,rgba(62,79,96,1) 49%,rgba(101,115,130,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  //background: linear-gradient(135deg,  rgba(44,62,80,1) 0%,rgba(44,62,80,1) 49%,rgba(62,79,96,1) 49%,rgba(101,115,130,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  //filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c3e50', endColorstr='#657382',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  background: url("../images/symphony.png") repeat;
+}
+
+.home-page-wrapper .page-head {
+  padding-top: 20vh;
+  height: 93vh;
+}
+
+.page-wrapper .page-head {
+  margin-bottom: 40px;
+}
+
+.page-head h1 {
+  color: #2c3e50;
+  text-transform: uppercase;
+  font-size: 5em;
+  font-weight: 100;
+}
+
+.page-head p {
+  font-size: 1.5em;
+  font-weight: 100;
+  color: #2c3e50;
+}
+
+pre {
+  max-height: 70vh;
+  overflow-y: scroll;
+}
+
+.app-footer {
+  background-color: rgb(44, 62, 80);
+  padding: 60px 0;
+  color: #ffffff;
+
+  a {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+}
+
+.home-buttons {
+  padding: 40px 0;
+}
+
+.thumbnail {
+  padding: 0;
+  border: none;
+
+  .caption {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+.btn {
+  font-weight: 100;
+}
+
+.btn-outline {
+  background: none;
+  border: 1px solid rgb(44, 62, 80);
+  transition: all .3s;
+}
+.btn-outline:hover {
+  background: rgb(44, 62, 80);
+  color: #fff;
+}
+pre {
+  background-color: #fff;
+}

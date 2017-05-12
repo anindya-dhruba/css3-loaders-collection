@@ -1,14 +1,11 @@
 <template>
-    <div class="page-wrapper">
+    <div class="home-page-wrapper">
         <div class="page-head">
             <div class="container">
-                <h1>Home</h1>
-                <p>An overview of Bootstrap, how to download and use, basic templates and examples, and more.</p>
-            </div>
-        </div>
-        <div class="page-body">
-            <div class="container">
-                <div class="row">
+                <h1>CSS3 Loaders</h1>
+                <p>An awesome collection of loaders built using CSS3</p>
+                <div class="home-buttons">
+                    <a href="https://github.com/anindya-dhruba/css3-loaders-collection" target="_blank" class="btn btn-primary btn-lg">View The Github Repo</a>
                 </div>
             </div>
         </div>

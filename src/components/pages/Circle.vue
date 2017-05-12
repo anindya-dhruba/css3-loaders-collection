@@ -3,7 +3,7 @@
         <div class="page-head">
             <div class="container">
                 <h1>Circle</h1>
-                <p>An overview of Bootstrap, how to download and use, basic templates and examples, and more.</p>
+                <p>because, the earth is circular</p>
             </div>
         </div>
         <div class="page-body">

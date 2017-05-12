@@ -2,13 +2,12 @@ $navbar-inverse-bg: darken(#2c3e50, 5%);
 $navbar-inverse-brand-color: #fff;
 $navbar-inverse-link-color: #fff;
 
-.navbar-transparent {
+.navbar-custom {
   background-color: $navbar-inverse-bg;
   border-color: $navbar-inverse-bg;
 
   .navbar-brand {
     color: $navbar-inverse-brand-color;
-    font-size: 1.5em;
     font-weight: 100;
     &:hover,
     &:focus {
@@ -26,7 +25,7 @@ $navbar-inverse-link-color: #fff;
       color: $navbar-inverse-link-color;
       border-bottom: 2px solid transparent;
       font-weight: 100;
-      font-size: 1.1em;
+      //font-size: 1.1em;
       padding-left: 20px;
       padding-right: 20px;
 

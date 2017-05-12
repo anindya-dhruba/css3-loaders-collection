@@ -1,20 +1,15 @@
 <template>
-    <footer>
-        <hr>
+    <footer class="app-footer">
         <div class="container">
-            &copy;CSS3 Loaders Collection <span v-once>{{ currentYear }}, developed by <strong>Anindya Dhruba</strong></span>
+            CSS3 Loaders Collection is developed by <a href="https://github.com/anindya-dhruba" target="_blank">Anindya Dhruba</a>
+            <br>
+            But all credit goes to those awesome people who contribute to open source platform and not always run after money.
         </div>
     </footer>
 </template>
 
 <script>
 	export default {
-		name: 'app-footer',
-		data() {
-			return {
-				currentYear: (new Date).getFullYear()
-			}
-		},
-		components: {}
+		name: 'app-footer'
 	}
 </script>

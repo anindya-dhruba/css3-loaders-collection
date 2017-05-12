@@ -3,7 +3,7 @@
         <div class="page-head">
             <div class="container">
                 <h1>Rectangular</h1>
-                <p>An overview of Bootstrap, how to download and use, basic templates and examples, and more.</p>
+                <p>because, your device looks like rectangular</p>
             </div>
         </div>
         <div class="page-body">
