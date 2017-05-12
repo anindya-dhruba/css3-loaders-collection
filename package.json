@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
-    "build": "node build/build.js"
+    "build": "node build/build.js",
+    "deploy": "git subtree push — prefix dist heroku master"
   },
   "dependencies": {
     "vue": "^2.2.2",
