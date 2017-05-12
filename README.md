@@ -1,21 +1,13 @@
-# css3-loaders-collection
+# CSS3 Loaders Collection
+An awesome collection of loaders built using CSS3
 
-> A Vue.js project
+## Demo
+[View the demo at Heroku](http://css3-loaders-collection.herokuapp.com/)
 
-## Build Setup
+## Technology Used
+* [SCSS](http://sass-lang.com/documentation/file.SCSS_FOR_SASS_USERS.html) 
+* [Vue 2](https://vuejs.org)
+* [Vue Router 2](http://router.vuejs.org)
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Note:
+I tried to follow the best practices, but any suggestion, modification is highly appreciated.  
