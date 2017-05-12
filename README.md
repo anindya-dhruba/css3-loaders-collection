@@ -9,5 +9,5 @@ An awesome collection of loaders built using CSS3
 * [Vue 2](https://vuejs.org)
 * [Vue Router 2](http://router.vuejs.org)
 
-## Note:
+## Note
 I tried to follow the best practices, but any suggestion, modification is highly appreciated.  
