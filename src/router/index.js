@@ -10,7 +10,6 @@ import Column from '@/components/pages/Column';
 import Misc from '@/components/pages/Misc';
 
 export default new Router({
-	mode: 'history',
 	routes: [
 		{
 			path: '/',
